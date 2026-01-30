@@ -1,2 +1,2 @@
-# Getting-Started-with-Milvus
-Getting Started with Milvus, by Packt Publishing
+# The-Architecture-Handbook-for-Milvus-Vector-Database
+The Architecture Handbook for Milvus Vector Database, by Packt Publishing
